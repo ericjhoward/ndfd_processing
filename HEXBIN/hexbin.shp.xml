@@ -1,0 +1,13 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20240321</CreaDate>
+		<CreaTime>21514100</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<DataProperties>
+			<lineage>
+				<Process ToolSource="z:\home\arcgis\arcgis\server\framework\runtime\arcgis\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CreateFeatureclass" Date="20240321" Time="215141">CreateFeatureclass Z:/arcgis/home/weather_data hexbin.shp Polygon # No No "PROJCS["Lambert_Conformal_Conic_2SP",GEOGCS["GCS_Coordinate_System_imported_from_GRIB_file",DATUM["D_unknown",SPHEROID["Sphere",6371229.0,0.0]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["false_easting",0.0],PARAMETER["false_northing",0.0],PARAMETER["central_meridian",-97.5],PARAMETER["standard_parallel_1",38.5],PARAMETER["standard_parallel_2",38.5],PARAMETER["latitude_of_origin",38.5],UNIT["Meter",1.0]];-37357400 -29347600 10000;-100000 10000;-100000 10000;0.001;0.001;0.001;IsHighPrecision" # 0 0 0 # "Same as template"</Process>
+			</lineage>
+		</DataProperties>
+	</Esri>
+</metadata>
